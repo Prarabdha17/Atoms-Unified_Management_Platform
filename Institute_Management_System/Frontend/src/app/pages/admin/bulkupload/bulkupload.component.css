@@ -1,0 +1,15 @@
+.upload-card, .result-card {
+    max-width: 400px;
+    margin: 20px auto;
+    text-align: center;
+  }
+  
+  .upload-card mat-card-actions {
+    display: flex;
+    justify-content: center;
+  }
+  
+  .result-card mat-card-content {
+    font-size: 18px;
+    color: #3f51b5;
+  }

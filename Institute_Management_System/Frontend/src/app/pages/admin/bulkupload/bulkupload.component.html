@@ -1,0 +1,24 @@
+<!-- src/app/upload/upload.component.html -->
+<!-- <input type="file" (change)="onFileChange($event)" />
+<button (click)="upload()">Upload</button> -->
+
+<mat-card class="upload-card">
+    <mat-card-header>
+      <mat-card-title>Upload File</mat-card-title>
+    </mat-card-header>
+    <mat-card-content>
+      <input type="file" (change)="onFileChange($event)" />
+    </mat-card-content>
+    <mat-card-actions>
+      <button mat-raised-button color="primary" (click)="upload()" [disabled]="!selectedFile">Upload</button>
+    </mat-card-actions>
+  </mat-card>
+  
+  <!-- <mat-card class="result-card" *ngIf="uploadedFileName">
+    <mat-card-header>
+      <mat-card-title>Uploaded File</mat-card-title>
+    </mat-card-header>
+    <mat-card-content>
+      <p>{{ uploadedFileName }}</p>
+    </mat-card-content>
+  </mat-card> -->
