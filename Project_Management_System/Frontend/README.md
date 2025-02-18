@@ -4,7 +4,9 @@ The Project Management System enables project creation, collaboration, and roadb
 ## Technologies Used
 ### React: 
 Unlock the power and interactivity of React for building dynamic front-end experiences.
-Modern UI Design: Experiment with modern UI styling techniques using Tailwind CSS and the Shadow UI Library.
+Modern UI Design: Experiment with modern UI styling techniques using Tailwind CSS and the Shadow UI Library.<br>
+React Hooks: Master hooks like useState, useEffect, and useContext for efficient state and side-effect management.
+
 ### Redux State Management:
  Conquer complex application state management with Redux.
 Seamless Navigation: Learn to create smooth navigation between different sections of your application with React Router DOM.
