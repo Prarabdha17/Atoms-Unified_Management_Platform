@@ -10,6 +10,12 @@
 Built with cutting-edge **frontend and backend technologies**, Atoms delivers a **secure, scalable, and intuitive** experience for users managing **projects, courses, and assessments**.  
 
 ---
+## 🔗 **Project Modules**
+Click on the links below to navigate directly to the respective project folders:
+
+📌 [Institute Management System (IMS)]()  
+📌 [Project Management System (PMS)]()  
+
 
 ## 🔥 **Key Features**  
 
