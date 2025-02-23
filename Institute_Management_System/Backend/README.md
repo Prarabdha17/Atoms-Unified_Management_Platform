@@ -35,6 +35,6 @@ Atoms' backend infrastructure ensures:
 
 Whether it's creating projects, collaborating with teammates, resolving roadblocks, or handling payments, the Atoms PMS backend ensures every process runs like clockwork. 🕒
 
-Want to explore the code? [Click here to view the Backend Folder](./Atoms-Backend)
+Want to explore the code? [Click here to view the Backend Folder](https://github.com/Prarabdha17/Atoms-Unified_Management_Platform/tree/main/Institute_Management_System/Backend)
 
 Let me know if you'd like me to tweak anything further! 🚀
