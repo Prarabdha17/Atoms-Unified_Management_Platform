@@ -37,6 +37,6 @@ Students get an intuitive interface to take and review quizzes.
 - 🔐 **Security:** Ensures ethical quiz participation with tab-switch prevention.
 - 📈 **Insights:** Provides detailed student performance data.
 
-Want to explore the code? [Click here to view the IMS Frontend Folder]()
+Want to explore the code? [Click here to view the IMS Frontend Folder](https://github.com/Prarabdha17/Atoms-Unified_Management_Platform/tree/main/Institute_Management_System/Frontend)
 
 Let me know if you’d like me to refine this further! 🚀
