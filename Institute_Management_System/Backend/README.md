@@ -1,4 +1,4 @@
-🎯 **Atoms IMS Backend: Powering Institute Management**
+# 🎯 **Atoms IMS Backend: Powering Institute Management** 
 
 The backend of Atoms Institute Management System (IMS) is the backbone of the platform, ensuring secure, efficient, and scalable handling of courses, quizzes, results, and user authentication. Built with a powerful tech stack, it delivers the logic and data flow that brings the IMS to life. 🚀
 
