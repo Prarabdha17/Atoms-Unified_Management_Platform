@@ -64,3 +64,12 @@ Click on the links below to navigate directly to the respective project folders:
 🔹 **Foster seamless collaboration** for project teams and educators.  
 🔹 **Improve assessment methodologies** with advanced quiz management tools.  
 
+---
+
+## 📩 Contact
+Feel free to reach out for queries or collaborations:
+
+- Email: prarabdha.dabhade@gmail.com
+- LinkedIn: http://linkedin.com/in/prarabdha-d
+
+---
