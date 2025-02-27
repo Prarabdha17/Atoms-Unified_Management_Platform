@@ -1,7 +1,6 @@
 package com.pms.model;
 
 import java.util.Date;
-
 import jakarta.persistence.Entity;
 import jakarta.persistence.FetchType;
 import jakarta.persistence.GeneratedValue;
