@@ -2,9 +2,9 @@ package com.pms.service;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
-
 import com.pms.model.PasswordResetToken;
 import com.pms.repository.PasswordResetTokenRepository;
+
 @Service
 public class PasswordResetTokenServiceImplementation implements PasswordResetTokenService {
 	@Autowired
