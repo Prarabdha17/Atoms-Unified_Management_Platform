@@ -4,10 +4,8 @@ import com.pms.exception.MailsException;
 import jakarta.mail.MessagingException;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
-
 import com.pms.model.Invitation;
 import com.pms.repository.InviteTokenRepository;
-
 import java.util.UUID;
 
 @Service
