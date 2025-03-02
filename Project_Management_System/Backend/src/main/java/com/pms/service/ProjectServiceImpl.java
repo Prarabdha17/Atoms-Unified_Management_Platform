@@ -3,10 +3,8 @@ package com.pms.service;
 import java.util.List;
 import java.util.Optional;
 import java.util.stream.Collectors;
-
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
-
 import com.pms.exception.ChatException;
 import com.pms.exception.ProjectException;
 import com.pms.exception.UserException;
@@ -14,7 +12,6 @@ import com.pms.model.Chat;
 import com.pms.model.Project;
 import com.pms.model.User;
 import com.pms.repository.ProjectRepository;
-
 import jakarta.transaction.Transactional;
 
 @Service
