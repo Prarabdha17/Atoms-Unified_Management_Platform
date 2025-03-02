@@ -4,14 +4,12 @@ import java.util.Calendar;
 import java.util.Date;
 import java.util.Optional;
 import java.util.UUID;
-
 import com.pms.exception.ProjectException;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.mail.SimpleMailMessage;
 import org.springframework.mail.javamail.JavaMailSender;
 import org.springframework.security.crypto.password.PasswordEncoder;
 import org.springframework.stereotype.Service;
-
 import com.pms.config.JwtProvider;
 import com.pms.exception.UserException;
 import com.pms.model.PasswordResetToken;
