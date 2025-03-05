@@ -1,6 +1,6 @@
 package com.pms.controller;
-import java.util.List;
 
+import java.util.List;
 import com.pms.exception.MailsException;
 import com.pms.model.Invitation;
 import com.pms.request.ProjectInvitationRequest;
@@ -19,7 +19,6 @@ import org.springframework.web.bind.annotation.RequestHeader;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;
-
 import com.pms.exception.ChatException;
 import com.pms.exception.ProjectException;
 import com.pms.exception.UserException;
