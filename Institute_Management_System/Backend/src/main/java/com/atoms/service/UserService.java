@@ -1,6 +1,5 @@
 package com.atoms.service;
 
-
 import com.atoms.model.User;
 
 public interface UserService {
