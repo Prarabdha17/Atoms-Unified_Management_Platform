@@ -13,7 +13,6 @@ import org.springframework.web.bind.annotation.PutMapping;
 import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
-
 import com.atoms.exceptions.ErrorSavingObjectInDatabase;
 import com.atoms.exceptions.UserAlreadyExist;
 import com.atoms.exceptions.UserIsBlocked;
