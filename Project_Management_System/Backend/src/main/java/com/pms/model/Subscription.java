@@ -1,6 +1,7 @@
 package com.pms.model;
 
 import com.fasterxml.jackson.annotation.JsonIgnore;
+
 import com.pms.domain.PlanType;
 import com.pms.domain.SubscriptionType;
 import jakarta.persistence.*;
