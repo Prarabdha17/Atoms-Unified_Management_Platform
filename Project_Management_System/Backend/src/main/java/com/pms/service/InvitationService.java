@@ -2,6 +2,7 @@ package com.pms.service;
 
 import com.pms.exception.MailsException;
 import com.pms.model.Invitation;
+
 import jakarta.mail.MessagingException;
 
 public interface InvitationService {
